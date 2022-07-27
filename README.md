@@ -1,4 +1,30 @@
-# Assignment 5 IN3110
+# Simple wikipedia scraper
+
+## Made for the course IN3110
+
+<table><tr>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Forwarding" src="NBA_player_statistics/players_over_bpg.png" width="320">
+    <br>
+    <em style="color: grey">Blocks per game</em>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+    <img alt="Routing" src="NBA_player_statistics/players_over_ppg.png" width="320">
+    <br>
+    <em style="color: grey">Points per game</em>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+    <img alt="Routing" src="NBA_player_statistics/players_over_rpg.png" width="320">
+    <br>
+    <em style="color: grey">Rebounds per game</em>
+  </p> 
+</td>
+</tr></table>
 
 ## Depencies
 
